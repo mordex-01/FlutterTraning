@@ -1,4 +1,4 @@
-name: class_1
+name: test_2
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -60,8 +60,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - asset/logotaav.png
-  #   - images/a_dot_ham.jpeg
+    - assets/a1.jpg
+    - assets/a2.jpg
+    - assets/a3.jpg
+    - assets/a4.jpg
+    - assets/a5.jpg
+    - assets/a6.jpg
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
